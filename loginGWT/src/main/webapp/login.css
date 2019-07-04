@@ -1,0 +1,159 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #777777;
+  margin: 40px 0px 70px;
+  text-align: center;
+}
+
+.sendButton {
+  display: block;
+  font-size: 16pt;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+  width: 400px;
+}
+
+.dialogVPanel {
+  margin: 5px;
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+  margin: 15px 6px 6px;
+}
+.mainpanel{
+	margin: auto;
+	margin-top: 0%;
+	border:1px solid black;
+	padding:20px;
+	border-radius:10px;
+	width: 50%;
+}
+.LoginUser{
+	margin-left: 146px;
+}
+.SignUpButton{
+    position: absolute;
+    top: 236px;
+    margin-left: 59px;
+}
+.gwt-TextBox {
+    padding: 3px;
+}
+
+.gwt-Label {
+    padding: 11px;
+}
+.errorLbl1 {
+    float: right;
+    position: absolute;
+    left: 49%;
+}
+
+.errorPasswordLbl {
+    position: absolute;
+    float: right;
+    left: 49%;
+    top: 30%;
+}
+
+.gwt-PasswordTextBox {
+    padding: 2px;
+    position: absolute;
+   
+}
+
+.MainPanelUserdetail{
+	margin-top: auto;
+	
+}
+
+.DateBox{
+	position: absobulte;
+	padding: 10px;
+}
+
+.searchBox{
+       margin-top: -21px;
+}
+.searchButton{
+	margin-left: 12px;
+	position: absolute;
+	top:23%;
+}
+
+.AddRecord {
+    margin-left: 141px;
+    position: absolute;
+    top: 23%;
+}
+
+.refreshBtn{
+	margin-left: 254px;
+    position: absolute;
+    top: 23%;
+}
+.ResetBtn{
+	position: absolute;
+    top: 23%;
+    margin-left: 375px;
+}
+.flowpanel{
+	display: flex;
+	padding: 10px;
+}
+.field{
+	display: flex;
+	font-size: large;
+	flex: auto;
+}
+.value{
+	display: flex;
+	font-size: large;
+	padding-left: 79px;
+}
+.UpdateDetails{
+	position: absolute;
+    margin-left: 124px;
+    top: 49%;
+}
+.EducationDetails{
+	position: absolute;
+    margin-left: 17%;
+    margin-top: -18px;
+} 
+.SaveChanges{
+    position: absolute;
+    margin-left: 204px;
+    top: 334px;
+}
+.LoginUser{
+	height: 25px;
+	background-color: #1c96d29e;
+	color: black;
+	border-radius: 5px;
+}
+.SaveEduationDetailsBtn{
+	background-color: #008CBA; 
+}
+.cancelButton{
+margin-left: 123px;
+    position: absolute;
+    top: 23%;
+}
+.Error{
+	text-transform: uppercase;
+	color:red;
+}
+

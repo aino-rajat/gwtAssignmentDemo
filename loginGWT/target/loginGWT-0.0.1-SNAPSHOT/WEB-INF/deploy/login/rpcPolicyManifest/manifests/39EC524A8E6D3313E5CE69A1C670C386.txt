@@ -1,0 +1,2 @@
+serviceClass: com.ainosoft.loginGWT.client.LoginService
+path: E63984386076A4BADCFC6ABAA8284701.gwt.rpc

@@ -1,0 +1,3 @@
+# Module login
+# RPC service class, partial path of RPC policy file
+com.ainosoft.loginGWT.client.LoginService, E63984386076A4BADCFC6ABAA8284701.gwt.rpc

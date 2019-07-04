@@ -1,0 +1,28 @@
+.cellTableWidget {
+    color: #729fcf;
+    background-color: #ff00ff;
+}
+
+.cellTableHeader {
+    border-bottom: 2px solid #6f7277;
+    padding: 12px 120px;
+    text-align: left;
+    color: #100202;
+    background-color: skyblue;
+    text-shadow: #ddf 1px 1px 0;
+    overflow: hidden;
+}
+.cellTableCell {
+    padding: 2px 15px;
+    overflow: hidden;
+    text-align: center;
+    cursor: pointer;
+}
+
+.cellTableHoveredRow {
+   background: #89CFFO;
+}
+.cellTableHoveredRowCell {
+   color: #c23939;
+   background-color: antiquewhite;
+}
